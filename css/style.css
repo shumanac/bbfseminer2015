@@ -263,5 +263,9 @@ footer.page-footer {
         width:100%!important;
         font-size:10px!important;
     }
+    .sponsor h3{
+     line-height:3;
+     margin-top:-13%;
+    }
 }
 
