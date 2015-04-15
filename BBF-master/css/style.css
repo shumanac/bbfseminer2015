@@ -1,0 +1,263 @@
+body{
+padding:0;
+margin: 0;
+left:0;
+right:0;
+
+}
+body{
+font-family: 'Merriweather Sans', sans-serif;
+
+}
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+nav .brand-logo  ul li a:hover{
+  background-color: #E51A45;
+}
+.nav-wrapper{
+    background-color: #fff;
+}
+p {
+  line-height: 2rem;
+}
+
+.reg{
+ top:50px!important;
+
+}
+nav
+{
+margin-bottom: 30px;
+}
+
+.button-collapse {
+  background-color:#E51A45!important;
+}
+.sponsor ul li{
+    float:left;
+}
+.dir{
+margin-top: 10%;
+  background-color: #E51A45;
+}
+
+.teal.lighten-1 {
+    background-color:#E51A45!important; 
+}
+.venue img{
+     background-repeat: no-repeat;
+    background-size: cover!important;
+    height: 100%;
+  
+}
+.collapsible-header i {
+    width: 2rem;
+    font-size: 1.6rem;
+    line-height: 3rem;
+    display: block;
+    float: left;
+    text-align: center;
+    margin-right: 1rem; }
+.sec ul{
+float: right;
+}
+.brand-logo{
+    margin-left: 3%;
+}
+.nv{
+      margin-right:2%;
+
+}
+}
+.speakers{
+    width: 100%;
+}
+.speakers img{
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.parallax-container {
+  min-height: 670px;
+  line-height: 0;
+  height: auto;
+ 
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+.parallax img{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+    
+
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+.btn:hover, .btn-large:hover {
+  background-color:#85335C;
+}
+.dir {
+  margin-top: 6%;
+  background-color: #E51A45;
+}
+#responsive-img {
+  width: 80%;
+  display: block;
+  margin: 0 auto; }
+
+.icon-block {
+  padding: 0 15px;
+}
+
+footer.page-footer {
+  margin: 0;
+ 
+}
+.teal{
+ background-color: #E51A45!important;
+}
+
+
+
+@media only screen and (min-width : 200px) and (max-width:1200px) {
+    
+  
+
+    .speak1 h6{
+  
+        font-size: 12px;
+        line-height: 1;
+        width: 139px;
+        margin-left:-90%;
+        text-align: justify;
+      
+
+}
+
+.speak1 h5{
+    font-size: 14px;
+    line-height: 1;
+     width: 139px;
+       margin-left:-90%;
+            
+    }
+
+    .speak2 h6{
+  
+        font-size: 12px;
+        width: 139px;
+        margin-left: 58%;
+             text-align: justify;
+      
+
+}
+
+.speak2 h5{
+    font-size: 14px;
+    line-height: 1;
+     width: 139px;
+     margin-left: 58%;
+            
+    }
+.speak1 img{
+
+  margin-left: 10%;
+
+}
+    
+    .speak2 img{
+
+  margin-left: 150%;
+
+}
+ .sp h3{
+    margin-top:-63%;
+ 
+ }
+    .totl{
+        margin-top:-43%;
+    }
+    
+    .speak{
+    margin-bottom: -27.8%!important;
+    }
+    .strat{
+      font-size: 3vw;
+    word-break: break-all;
+    }
+    
+    .ven{
+        margin-top: -40%;
+    
+    }
+   .full-spon{
+      margin: 5%!important;
+   }
+    .daily{
+        margin-top: 7%!important;
+    
+    }
+  
+    .spon2{
+    	  font-size:2.9vw;
+    }
+    .spon3{
+    	  font-size:2.9vw;
+    }
+    .ban{
+    
+      margin-top: 21%;
+    }
+    .adn{
+         margin-top: 17%;
+    }
+    .eth{
+        margin-top: 25%;
+    
+    }
+    .mast{
+       margin-top: 43%!important;
+    
+    }
+    .msb{
+      margin-top:-11%!important;
+    
+    }
+    .ag1 p{
+        width: 30%;
+    }
+    .ag2 p{
+        width: 30%;
+    }
+   .spon1{
+    margin-top:-5%;
+   }
+    #venue{
+        margin-top:-10%!important;
+    }
+    .agenda1{
+        width:100%!important;
+        font-size:10px!important;
+    }
+    .agenda2{
+        width:100%!important;
+        font-size:10px!important;
+    }
+}
+
